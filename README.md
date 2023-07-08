@@ -2,6 +2,11 @@
   <img src="https://capsule-render.vercel.app/api?text=Hey!%20Thats%20me%20Wei®️%20😉&animation=fadeIn&type=waving&color=gradient&height=160&section=header"/>
 </p>
 
+<p align="center">
+  <img src="https://quotes-github-readme.vercel.app/api?type=horizontal&theme=dark"/>
+</p>
+
+
 ## 🛠 Tech Stack
 
 ![HTML](https://img.shields.io/badge/-HTML-05122A?style=flat&logo=HTML5)&nbsp;
